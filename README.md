@@ -6,7 +6,7 @@ This is a challenge designed to test your ability to fetch data from an API, and
 ## The Challenge
 
 - Accept user input of a zip code
-- Use [Zippopotomus](https://zippopotam.us) to get the loaction details of the user-sumbitted zip code.
+- Fetch location details about that zip code from the [Zippopotomus](https://zippopotam.us) API.
 - Display the location details.
 - Hit it with the pretty stick; personalize the composition with some tasteful visual flair.
 
