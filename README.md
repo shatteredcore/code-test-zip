@@ -1,6 +1,6 @@
 # Zip Code Finder
 
-This is a challenge designed to test your ability to manipulate the DOM with javascript.  [ZIP Codes](https://en.wikipedia.org/wiki/ZIP_Code) are used by the USPS as unique identifiers for geographic regions. [Zippopotomus](https://zippopotam.us) is a free API that accepts zip codes, and returns detailed information about the geographic region that zip code represents.
+This is a challenge designed to test your ability to fetch data from an API, and manipulate the DOM with javascript.  [ZIP Codes](https://en.wikipedia.org/wiki/ZIP_Code) are used by the USPS as unique identifiers for geographic regions. [Zippopotomus](https://zippopotam.us) is a free API that accepts zip codes, and returns detailed information about the geographic region that zip code represents.
 
 
 ## The Challenge
