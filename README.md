@@ -12,7 +12,7 @@ This is a challenge designed to test your ability to fetch data from an API, and
 
 ## Requirements
 
-- You must complete the challenge within 2 hours of receiving this link.
+- You must complete the challenge within 4 hours of receiving this link.
 - You may use the included US State images in /states.
 - You may not use 3rd-party libraries.
 - The code should work in the latest version of Chrome.
