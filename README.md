@@ -17,7 +17,7 @@ This is a challenge designed to test your ability to fetch data from an API, and
 - You may not use 3rd-party libraries.
 - The code should work in the latest version of Chrome.
 
-## Intructions
+## Instructions
 - Fork this repo to a private repo your own GitHub account.
 - Complete the challenge.
 - Push your solution to your private repo.
