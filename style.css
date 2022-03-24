@@ -1,0 +1,50 @@
+body{
+    margin-left:10px;
+    margin-top:10px;
+}
+#infoContainer{
+    margin-top:10px;
+}
+
+#countryInfo{
+    font-size:24px;
+    font-weight:bold;
+}
+
+h1{
+    font-size:24px;
+    font-weight:bold;
+}
+
+form{
+    margin-top:10px;
+}
+
+th, td{
+    padding:10px;
+    width:100px;
+    text-align:center;
+}
+
+thead{
+    margin:-50px;
+}
+
+tr{
+    display:flex;
+    align-items:center;
+}
+
+.place-state-image img{
+    width:50px;
+    height:50px;
+}
+
+#placeInfo{
+    margin-top:10px;
+    border: 1px solid black;
+}
+
+.table-header{
+    border-bottom: 1px solid black;
+}
